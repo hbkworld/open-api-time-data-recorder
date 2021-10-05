@@ -39,7 +39,7 @@ _DAQ Setup Tab_
 _Generator Setup Tab_
 1. Edit the properties of each generator channel as needed or load a previously saved generator channel setup by clicking ‘Load Generator Setup Table’
     * In the ‘Specify File Path for Inputs’ field
-        * Enter the full file path to the generator waveform .mat file, e.g. ‘C:\Users\mhoutteman\LAN-XI Open API\LANXITimeDataRecorderPTPandSignalGenerator\Generator Input Files\SineWave100Hz.mat’
+        * Enter the full file path to the generator waveform .mat file, e.g. ‘C:\HBK LAN-XI Open API\MATLAB Simple Recorder GUI\Generator Input Files\SineWave100Hz.mat’
         * Alternatively, click on ‘Load Generator Input Files’ and select a folder that contains generator waveform .mat files to create a drop-down menu of file options in the ‘Specify File Path for Inputs’ field
 2. Save generator channel setup by clicking ‘Save Generator Setup Table’
 
