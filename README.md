@@ -7,6 +7,8 @@
 ## TechnicalSalesSupport.US@hbkworld.com
 
 
+[![View Brüel & Kjær LAN-XI Open API MATLAB Simple Recorder GUI on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/100296-bruel-kjaer-lan-xi-open-api-matlab-simple-recorder-gui)
+
 
 **Installing and Launching the Application**
 
